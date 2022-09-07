@@ -1,0 +1,36 @@
+body {
+    background: #eee;
+    font-family: sans-serif;
+  }
+  *{
+    margin: auto;
+    padding: 10px;
+  }
+  div{
+    width: 500px;
+    background: #fff;
+  }
+
+  .title {
+    background: #e3f4ff;
+  }
+  
+  .content {
+    background: #e3f4ff;
+    margin:10px auto;
+    width: auto;
+  }
+  
+  .button-container {
+    background: #e3f4ff;
+    text-align: center;
+    width: auto;
+  }
+  
+  button {
+    background: white;
+    border: 1px solid #eee;
+    display: block;
+    font-size: larger;
+
+  }
