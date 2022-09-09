@@ -1,0 +1,1 @@
+Exercise in creating layout of popup continue message.
